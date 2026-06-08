@@ -1,5 +1,5 @@
 # pypi_repos
-Pypi repos i usually use. This list has two reason for me. First, i need eliminate typos and secondly, Pypi UI is super archaic totaly unusable nowadays. How is anyone supposed to navigate this mess?
+Pypi repos i usually use. This list has two reason for me. First, i need eliminate typos and secondly, Pypi UI is super archaic and totaly unusable nowadays. How is anyone supposed to navigate this mess?
 
 Security
 
